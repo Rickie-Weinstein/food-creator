@@ -1,1 +1,3 @@
+ingredients = ["tofu", "potatoes", "oil", "sauce"]
+print(ingredients)
 
